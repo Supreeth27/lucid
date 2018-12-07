@@ -17,7 +17,7 @@ We use the instructions on <a href="https://github.com/wkentaro/labelme/tree/mas
 
 4. Download the model checkpoint of the model you would like to use for training it on your own data. We used the Xception_65 checkpoint for our data and placed it in the ./xception_65/ directory.
 
-5. Train your model by running the command included in train_command.txt
+5. Train your model by running the command included in train_command.txt (You can modify the arguments to better train on your own data)
 
 6. Visualize your model's performance by running the visualization_command.txt from your terminal. The visualizations will be stored in the ./vis directory for our example.
 
