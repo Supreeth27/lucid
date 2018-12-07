@@ -21,6 +21,8 @@ We use the instructions on <a href="https://github.com/wkentaro/labelme/tree/mas
 
 6. Visualize your model's performance by running the visualization_command.txt from your terminal. The visualizations will be stored in the ./vis directory for our example.
 
+![](final.gif)
+
 ## References
 
 [1] Semantic Image Segmentation with Deep Convolutional Nets and Fully
